@@ -3,3 +3,4 @@ return {
 "E5302A5F-72C5-475F-9F23-63C1D047A359", --kur
 "07C9C3D1-2650-4515-B9F8-DC0FF58FE3EA", --slender/goat man
 }
+print(fart)
