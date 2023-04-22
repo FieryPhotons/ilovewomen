@@ -1,3 +1,3 @@
-return {
+local whitelisted = return {
 "c0f391684387e0a530db0091fe7f0d0219f26c97ee9f11ffa1726b017432f131da5dda9731cdf3ae71dc2af9f7b8f3f1c8078a884d17350f93b24c313dffcf76"; --fiery
 }
